@@ -76,3 +76,5 @@ class CfsSpider(scrapy.Spider):
             item['images']=j
 
         yield item
+
+        
