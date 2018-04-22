@@ -71,3 +71,5 @@ class CfPipeline(object):
     #
     # with open('image.png','wb') as f:  #保存图片
     #     f.write(response)
+
+   
