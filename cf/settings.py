@@ -98,3 +98,4 @@ IMAGES_STORE='/home/momoto/code/cfspider'
 
 ITEM_PIPELINES={'cf.pipelines.CfPipeline':1}
                 # 'cf.pipe2lines.Picpipline':300,}
+  
