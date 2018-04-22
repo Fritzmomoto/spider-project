@@ -20,4 +20,3 @@ class Picpipline(ImagesPipeline):
         ipath=[x['path'] for ok,x in results if ok]
         shutil.move(IMAGES_STORE+'/'+ipath[0],item['paths'])
         yield item
-
